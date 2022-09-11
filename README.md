@@ -6,3 +6,5 @@ I am a Ph.D. Candidate in Physics at Johns Hopkins, with a distinguished B.S. in
   <br>
 You can find my resume <a href= "https://raw.githubusercontent.com/Boxrof/Boxrof/main/Resume_Mohit_Srivastav.pdf"> here</a> and my website <a href="https://boxrof.github.io/"> here </a>.
 </h3>
+<br>
+Feel free to reach me at <a href="mailto:msrivas6@jhu.edu">msrivas6@jhu.edu</a>!
