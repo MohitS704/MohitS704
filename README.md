@@ -3,7 +3,7 @@ Hi! My name is Mohit Srivastav
 </h1>
 <h3>
   I am currently a Ph.D. student in Physics at Johns Hopkins. <br><br>
-  I hold a B.S. in Physics (highest distinction) and a B.A. in Computer Science (high distinction) from the University of Virginia (Class of 2022). 
+  I hold a B.S. in Physics and a B.A. in Computer Science from the University of Virginia (Class of 2022). 
   <br><br>
   You can find my resume <a href= "https://raw.githubusercontent.com/Boxrof/Boxrof/main/Resume_Mohit_Srivastav.pdf"> here</a> and my website <a href="https://boxrof.github.io/"> here </a>.
   <br><br>
